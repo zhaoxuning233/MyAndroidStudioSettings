@@ -1,0 +1,59 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="其他" />
+      <item value="集团" />
+      <item value="收费标准" />
+      <item value="charge" />
+      <item value="收费" />
+      <item value="我的地址" />
+      <item value="司机" />
+      <item value="我的收藏" />
+      <item value="顾客" />
+      <item value="客户" />
+      <item value="重置密码" />
+      <item value="找回密码" />
+      <item value="注册" />
+      <item value="recovery" />
+      <item value="publish" />
+      <item value="发布" />
+      <item value="圆" />
+      <item value="圆形" />
+      <item value="原型" />
+      <item value="黑色" />
+      <item value="订单" />
+      <item value="重量" />
+      <item value="long" />
+      <item value="长" />
+      <item value="lang" />
+      <item value="car" />
+      <item value="车辆" />
+      <item value="运输" />
+      <item value="合并" />
+      <item value="Single" />
+      <item value="拼单" />
+      <item value="nor" />
+      <item value="nomore" />
+      <item value="普通" />
+      <item value="速运" />
+      <item value="dashed" />
+      <item value="虚线" />
+      <item value="领取" />
+      <item value="活动中心" />
+      <item value="优惠" />
+      <item value="Offer" />
+      <item value="活动" />
+      <item value="常用" />
+      <item value="闪屏" />
+      <item value="Splash" />
+      <item value="闪" />
+      <item value="闪动" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
+      </map>
+    </option>
+  </component>
+</application>

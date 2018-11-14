@@ -1,0 +1,27 @@
+<templateSet group="custom">
+  <template name="cmt" value="/**&#10; * 描述：&#10; * &#10; * @author songdehuai&#10; * &#10; * @ClassName:  $package_name$.$type_name$ &#10; * &#10; * @date $date$ $time$&#10; *&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="package_name" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <variable name="type_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pmt" value="/**$desc$*/&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mmt" value="/**&#10; * $desc$&#10; * @param $param$&#10; * @return $return$&#10; * @throws &#10; * @date $date$ $time$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,29 @@
+<templateSet group="Android">
+  <template name="getlistdatas" value="  x.task().start(new AbsTask&lt;List&lt;String[]&gt;&gt;() {&#10;            @Override&#10;            protected List&lt;String[]&gt; doBackground() throws Throwable {&#10;                List&lt;String[]&gt; listDatas = new ArrayList&lt;String[]&gt;();&#10;                StruData struData = new StruData(activity);&#10;                List&lt;LevelOneFunction&gt; levelOneFunctionList;&#10;                LevelTwoFunction levelTwoFunction;&#10;                LevelOneFunction levelOneFunction;&#10;                levelOneFunctionList = ModuleUtils.getLeveOneFunctionListTabText(&quot;&lt;界面别名&gt;&quot;, &quot;&lt;结构类型&gt;&quot;, &quot;&lt;功能区序号&gt;&quot;, activity);&#10;                if (levelOneFunctionList.size() &gt; 0) {&#10;                    levelOneFunction = levelOneFunctionList.get(0);&#10;                    levelTwoFunction = struData.getLevelTwoFunction(levelOneFunction);&#10;                    Data data = new Data(activity, levelTwoFunction);&#10;                    listDatas = data.getListDatas();&#10;                }&#10;                return listDatas;&#10;            }&#10;&#10;            @Override&#10;            protected void onSuccess(List&lt;String[]&gt; result) {&#10;&#10;            }&#10;&#10;            @Override&#10;            protected void onError(Throwable ex, boolean isCallbackError) {&#10;&#10;            }&#10;        });" description="获取列表数据" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="x.task" value="  x.task().start(new AbsTask&lt;String&gt;() {&#10;            @Override&#10;            protected String doBackground() throws Throwable {&#10;                return null;&#10;            }&#10;&#10;            @Override&#10;            protected void onSuccess(String result) {&#10;&#10;            }&#10;&#10;            @Override&#10;            protected void onError(Throwable ex, boolean isCallbackError) {&#10;&#10;            }&#10;        });&#10;" description="xutils异步任务" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="x.post" value="RequestParams requestParams = new RequestParams(&quot;&quot;);&#10;x.http().post(requestParams, new Callback.CommonCallback&lt;String&gt;() {&#10;    @Override&#10;    public void onSuccess(String result) {&#10;&#10;    }&#10;&#10;    @Override&#10;    public void onError(Throwable ex, boolean isOnCallback) {&#10;&#10;    }&#10;&#10;    @Override&#10;    public void onCancelled(CancelledException cex) {&#10;&#10;    }&#10;&#10;    @Override&#10;    public void onFinished() {&#10;&#10;    }&#10;});" description="xutils3 Post请求" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="post" value=" x.task().start(new AbsTask&lt;String&gt;() {&#10;            @Override&#10;            protected String doBackground() throws Throwable {&#10;                Map&lt;String, String&gt; params = new HashMap&lt;&gt;();&#10;                String result = HttpTools.submitPostData( &lt; 请求地址 &gt;,&lt;请求参数 &gt;);&#10;                return result;&#10;            }&#10;&#10;            @Override&#10;            protected void onSuccess(String result) {&#10;&#10;            }&#10;&#10;            @Override&#10;            protected void onError(Throwable ex, boolean isCallbackError) {&#10;&#10;            }&#10;        });&#10;" description="发送异步post请求" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="adapter" value="private Context context;&#10;private List listDatas;&#10;&#10;    public $class_name$ (Context context, List listDatas) {&#10;    this.context = context;&#10;    this.listDatas = listDatas;&#10;}&#10;&#10;@Override&#10;public int getCount() {&#10;    return listDatas.size();&#10;}&#10;&#10;@Override&#10;public Object getItem(int position) {&#10;    return listDatas.get(position);&#10;}&#10;&#10;@Override&#10;public long getItemId(int position) {&#10;    return 0;&#10;}&#10;&#10;@Override&#10;public View getView(int position, View convertView, ViewGroup parent) {&#10;    MyViewHolder holder = null;&#10;    if (null == holder) {&#10;        convertView = View.inflate(context, $desc$, null);&#10;        holder = new MyViewHolder(convertView);&#10;        convertView.setTag(holder);&#10;    } else {&#10;        holder = (MyViewHolder) convertView.getTag();&#10;    }&#10;    return convertView;&#10;}&#10;&#10;static class MyViewHolder {&#10;&#10;    public MyViewHolder(View itemView) {&#10;        x.view().inject(this, itemView);&#10;    }&#10;}" description="列表适配器" toReformat="false" toShortenFQNames="true">
+    <variable name="class_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

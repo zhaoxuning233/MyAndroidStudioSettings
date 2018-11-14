@@ -1,0 +1,7 @@
+<templateSet group="AndroidXML">
+  <template name="gone" value="android:visibility=&quot;gone&quot;" description="隐藏View" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
