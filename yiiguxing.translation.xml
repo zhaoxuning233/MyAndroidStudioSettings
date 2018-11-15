@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接单情况" />
       <item value="接单中" />
       <item value="等待" />
       <item value="优惠卷" />
@@ -50,7 +51,6 @@
       <item value="优惠" />
       <item value="Offer" />
       <item value="活动" />
-      <item value="常用" />
     </histories>
     <option name="languageScores">
       <map>
