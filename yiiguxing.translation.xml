@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优惠卷" />
+      <item value="有胡娟" />
       <item value="钱包" />
       <item value="我的钱包" />
       <item value="OTHER" />
@@ -49,8 +51,6 @@
       <item value="常用" />
       <item value="闪屏" />
       <item value="Splash" />
-      <item value="闪" />
-      <item value="闪动" />
     </histories>
     <option name="languageScores">
       <map>
