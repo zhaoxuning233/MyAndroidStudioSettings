@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="'getColor(Int): Int' is deprecated. Deprecated in Java" />
+      <item value="'ProgressDialog' is deprecated. Deprecated in Java" />
+      <item value="Modifier 'open' is redundant because 'abstract' is present" />
       <item value="丰田" />
       <item value="saturday name short" />
       <item value="sunday name short" />
@@ -48,14 +51,11 @@
       <item value="合并" />
       <item value="Single" />
       <item value="拼单" />
-      <item value="nor" />
-      <item value="nomore" />
-      <item value="普通" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
