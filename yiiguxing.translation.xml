@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="文件服务器" />
+      <item value="filterer" />
+      <item value="cat" />
+      <item value="catr" />
+      <item value="car" />
       <item value="你好" />
       <item value="'getColor(Int): Int' is deprecated. Deprecated in Java" />
       <item value="'ProgressDialog' is deprecated. Deprecated in Java" />
@@ -46,16 +51,12 @@
       <item value="long" />
       <item value="长" />
       <item value="lang" />
-      <item value="car" />
-      <item value="车辆" />
-      <item value="运输" />
-      <item value="合并" />
-      <item value="Single" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
