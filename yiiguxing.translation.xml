@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plate" />
+      <item value="车牌号" />
+      <item value="车牌" />
       <item value="默认" />
       <item value="Weight" />
       <item value="carMaxWeight" />
@@ -48,13 +51,10 @@
       <item value="publish" />
       <item value="发布" />
       <item value="圆" />
-      <item value="圆形" />
-      <item value="原型" />
-      <item value="黑色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
         <entry key="NORWEGIAN" value="1" />
       </map>
