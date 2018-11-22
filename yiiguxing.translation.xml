@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Common" />
+      <item value="comm" />
+      <item value="详细地址" />
+      <item value="常用地址" />
       <item value="plate" />
       <item value="车牌号" />
       <item value="车牌" />
@@ -47,15 +51,11 @@
       <item value="重置密码" />
       <item value="找回密码" />
       <item value="注册" />
-      <item value="recovery" />
-      <item value="publish" />
-      <item value="发布" />
-      <item value="圆" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="20" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
