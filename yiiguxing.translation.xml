@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="presenter" />
+      <item value="persenter" />
+      <item value="行驶证" />
+      <item value="驾驶证" />
+      <item value="车牌号" />
       <item value="父级别" />
       <item value="父" />
       <item value="Common" />
@@ -8,7 +13,6 @@
       <item value="详细地址" />
       <item value="常用地址" />
       <item value="plate" />
-      <item value="车牌号" />
       <item value="车牌" />
       <item value="默认" />
       <item value="Weight" />
@@ -47,16 +51,13 @@
       <item value="收费" />
       <item value="我的地址" />
       <item value="司机" />
-      <item value="我的收藏" />
-      <item value="顾客" />
-      <item value="客户" />
-      <item value="重置密码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
