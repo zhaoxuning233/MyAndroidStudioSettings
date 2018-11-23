@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/xudjx/djkeyboard.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/natario1/CameraView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ANDROID" />
