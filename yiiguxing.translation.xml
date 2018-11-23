@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发票" />
+      <item value="票据" />
       <item value="accessible" />
       <item value="默认" />
       <item value="id Card Front Path Name" />
@@ -49,13 +51,11 @@
       <item value="其他" />
       <item value="集团" />
       <item value="收费标准" />
-      <item value="charge" />
-      <item value="收费" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
