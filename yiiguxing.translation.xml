@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已过期" />
+      <item value="已国企" />
+      <item value="可用" />
+      <item value="未使用" />
+      <item value="已使用" />
       <item value="Voucher" />
       <item value="优惠券" />
       <item value="优惠" />
@@ -46,11 +51,6 @@
       <item value="接单情况" />
       <item value="接单中" />
       <item value="等待" />
-      <item value="优惠卷" />
-      <item value="有胡娟" />
-      <item value="钱包" />
-      <item value="我的钱包" />
-      <item value="OTHER" />
     </histories>
     <option name="languageScores">
       <map>
