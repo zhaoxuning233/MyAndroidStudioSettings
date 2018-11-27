@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="车牌号" />
       <item value="收藏司机" />
       <item value="已过期" />
       <item value="已国企" />
@@ -19,7 +20,6 @@
       <item value="persenter" />
       <item value="行驶证" />
       <item value="驾驶证" />
-      <item value="车牌号" />
       <item value="父级别" />
       <item value="父" />
       <item value="Common" />
