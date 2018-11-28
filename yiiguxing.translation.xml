@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
       <item value="解析" />
       <item value="解析数据" />
       <item value="车牌号" />
@@ -50,7 +51,6 @@
       <item value="签到" />
       <item value="地点选择器" />
       <item value="地点选择" />
-      <item value="地址选择" />
     </histories>
     <option name="languageScores">
       <map>
