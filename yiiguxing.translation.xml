@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="价格明细" />
+      <item value="price btn" />
       <item value="账号安全" />
       <item value="修改" />
       <item value="解析" />
@@ -49,13 +51,11 @@
       <item value="saturday name short" />
       <item value="sunday name short" />
       <item value="monday name short" />
-      <item value="签到" />
-      <item value="地点选择器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
