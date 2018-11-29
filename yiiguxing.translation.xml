@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="继续" />
       <item value="calculate Price" />
       <item value="fo Anticipated Money" />
       <item value="fo Anticipated Mileage" />
@@ -50,7 +51,6 @@
       <item value="驾驶证" />
       <item value="父级别" />
       <item value="父" />
-      <item value="Common" />
     </histories>
     <option name="languageScores">
       <map>
