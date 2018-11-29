@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calculate Price" />
+      <item value="fo Anticipated Money" />
+      <item value="fo Anticipated Mileage" />
+      <item value="beyond Money" />
+      <item value="beyond Mileage" />
+      <item value="start Mileage" />
+      <item value="current Time Millis" />
       <item value="on Poi Searched" />
       <item value="on Regeocode Searched" />
       <item value="Drive Route Query" />
@@ -44,18 +51,11 @@
       <item value="父级别" />
       <item value="父" />
       <item value="Common" />
-      <item value="comm" />
-      <item value="详细地址" />
-      <item value="常用地址" />
-      <item value="plate" />
-      <item value="车牌" />
-      <item value="Weight" />
-      <item value="carMaxWeight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
