@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Poi Searched" />
+      <item value="on Regeocode Searched" />
+      <item value="Drive Route Query" />
+      <item value="Truck Route Query" />
+      <item value="calculate Ride Route" />
+      <item value="calculate Bus Route" />
+      <item value="calculate Drive Route" />
+      <item value="calculate Drive Route Asyn" />
+      <item value="calculate Truck Route" />
+      <item value="Do full code cache collection" />
+      <item value="INSUFFICIENT ABROAD PRIVILEGES" />
       <item value="DRIVING SINGLE NO EXPRESSWAYS" />
       <item value="DRIVING SINGLE SHORTEST" />
       <item value="DRIVING SINGLE DEFAULT" />
@@ -40,22 +51,11 @@
       <item value="车牌" />
       <item value="Weight" />
       <item value="carMaxWeight" />
-      <item value="Bulk" />
-      <item value="carMaxBulk" />
-      <item value="文件服务器" />
-      <item value="filterer" />
-      <item value="cat" />
-      <item value="catr" />
-      <item value="car" />
-      <item value="你好" />
-      <item value="'getColor(Int): Int' is deprecated. Deprecated in Java" />
-      <item value="'ProgressDialog' is deprecated. Deprecated in Java" />
-      <item value="Modifier 'open' is redundant because 'abstract' is present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
