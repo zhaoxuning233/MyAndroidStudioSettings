@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DRIVING SINGLE NO EXPRESSWAYS" />
+      <item value="DRIVING SINGLE SHORTEST" />
+      <item value="DRIVING SINGLE DEFAULT" />
+      <item value="DRIVING SINGLE SAVE MONEY" />
       <item value="价格明细" />
       <item value="price btn" />
       <item value="账号安全" />
@@ -47,15 +51,11 @@
       <item value="'getColor(Int): Int' is deprecated. Deprecated in Java" />
       <item value="'ProgressDialog' is deprecated. Deprecated in Java" />
       <item value="Modifier 'open' is redundant because 'abstract' is present" />
-      <item value="丰田" />
-      <item value="saturday name short" />
-      <item value="sunday name short" />
-      <item value="monday name short" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
