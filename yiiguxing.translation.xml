@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to apply optimization" />
+      <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="范围" />
       <item value="继续" />
       <item value="calculate Price" />
@@ -49,13 +51,11 @@
       <item value="presenter" />
       <item value="persenter" />
       <item value="行驶证" />
-      <item value="驾驶证" />
-      <item value="父级别" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
