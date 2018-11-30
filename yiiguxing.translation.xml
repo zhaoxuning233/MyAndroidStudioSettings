@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Did you forget to close a response body?" />
+      <item value="leaked. Did you forget to close a response body?" />
       <item value="Failed to apply optimization" />
       <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="范围" />
@@ -49,13 +51,11 @@
       <item value="默认" />
       <item value="id Card Front Path Name" />
       <item value="presenter" />
-      <item value="persenter" />
-      <item value="行驶证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
