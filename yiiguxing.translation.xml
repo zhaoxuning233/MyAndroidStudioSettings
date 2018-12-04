@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pay" />
+      <item value="play" />
       <item value="Attempted to finish an input event but the input event receiver has already been disposed" />
       <item value="ttempted to finish an input event but the input event receiver has already been disposed." />
       <item value="scheme" />
@@ -49,12 +51,10 @@
       <item value="price btn" />
       <item value="账号安全" />
       <item value="修改" />
-      <item value="解析" />
-      <item value="解析数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
+        <entry key="CHINESE" value="68" />
         <entry key="ENGLISH" value="68" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
