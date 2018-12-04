@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="搬运" />
       <item value="set Outside Touchable" />
       <item value="pay" />
       <item value="play" />
@@ -50,7 +51,6 @@
       <item value="DRIVING SINGLE SAVE MONEY" />
       <item value="价格明细" />
       <item value="price btn" />
-      <item value="账号安全" />
     </histories>
     <option name="languageScores">
       <map>
