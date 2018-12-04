@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Outside Touchable" />
       <item value="pay" />
       <item value="play" />
       <item value="Attempted to finish an input event but the input event receiver has already been disposed" />
@@ -50,12 +51,11 @@
       <item value="价格明细" />
       <item value="price btn" />
       <item value="账号安全" />
-      <item value="修改" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
