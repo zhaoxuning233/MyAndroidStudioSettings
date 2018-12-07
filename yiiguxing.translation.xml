@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assert" />
+      <item value="view" />
+      <item value="View Group" />
+      <item value="Merge Main Sync" />
+      <item value="Fragment" />
+      <item value="Merge Main Fragment" />
       <item value="控制器" />
       <item value="set Indoor Enabled" />
       <item value="run Catching" />
@@ -45,17 +51,11 @@
       <item value="current Time Millis" />
       <item value="on Poi Searched" />
       <item value="on Regeocode Searched" />
-      <item value="Drive Route Query" />
-      <item value="Truck Route Query" />
-      <item value="calculate Ride Route" />
-      <item value="calculate Bus Route" />
-      <item value="calculate Drive Route" />
-      <item value="calculate Drive Route Asyn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
