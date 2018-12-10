@@ -178,6 +178,10 @@
           <option name="url" value="https://github.com/dmytrodanylyk/coroutine-recipes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jlgitlab.jlgoldenbay.com:9090/android/PushDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\ANDROID" />
