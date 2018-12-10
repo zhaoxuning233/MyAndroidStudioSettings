@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Message Receiver" />
+      <item value="My Message Receiver" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="permission Granted" />
       <item value="permission Denied" />
@@ -49,13 +51,11 @@
       <item value="fo Anticipated Money" />
       <item value="fo Anticipated Mileage" />
       <item value="beyond Money" />
-      <item value="beyond Mileage" />
-      <item value="start Mileage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
