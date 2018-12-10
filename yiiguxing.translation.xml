@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cleartext HTTP traffic to 192.168.2.102 not permitted" />
       <item value="Message Receiver" />
       <item value="My Message Receiver" />
       <item value="ACCESS COARSE LOCATION" />
@@ -50,12 +51,11 @@
       <item value="calculate Price" />
       <item value="fo Anticipated Money" />
       <item value="fo Anticipated Mileage" />
-      <item value="beyond Money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
