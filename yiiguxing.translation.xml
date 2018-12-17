@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已取消" />
+      <item value="未支付" />
+      <item value="已完成" />
+      <item value="进行中" />
       <item value="你好世界" />
       <item value="Hello Word" />
       <item value="drivingLicencePath" />
@@ -47,10 +51,6 @@
       <item value="set Longitude" />
       <item value="get Satellites" />
       <item value="Did you forget to close a response body?" />
-      <item value="leaked. Did you forget to close a response body?" />
-      <item value="Failed to apply optimization" />
-      <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
-      <item value="范围" />
     </histories>
     <option name="languageScores">
       <map>
