@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="你好世界" />
+      <item value="Hello Word" />
       <item value="drivingLicencePath" />
       <item value="waybill cancel" />
       <item value="Cleartext HTTP traffic to 192.168.2.102 not permitted" />
@@ -49,13 +51,11 @@
       <item value="Failed to apply optimization" />
       <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="范围" />
-      <item value="继续" />
-      <item value="calculate Price" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
