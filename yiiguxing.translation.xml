@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lateinit property carInfoData has not been initialized" />
       <item value="songdehuai" />
       <item value="已取消" />
       <item value="未支付" />
@@ -50,12 +51,11 @@
       <item value="on Terminate" />
       <item value="get Aoi Name" />
       <item value="set Longitude" />
-      <item value="get Satellites" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
