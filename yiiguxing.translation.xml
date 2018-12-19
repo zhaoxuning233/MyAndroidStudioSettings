@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add To Map" />
+      <item value="remove From Map" />
+      <item value="set Node Icon Visibility" />
       <item value="interval" />
       <item value="预计里程" />
       <item value="预计历程" />
@@ -48,14 +51,11 @@
       <item value="伺机" />
       <item value="consigner Name" />
       <item value="consignee Name" />
-      <item value="consigner Name et" />
-      <item value="consignee Tele" />
-      <item value="comm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
