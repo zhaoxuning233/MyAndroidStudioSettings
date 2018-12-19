@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预计里程" />
+      <item value="预计历程" />
+      <item value="unexpected end of stream on Connection" />
       <item value="lateinit property carInfoData has not been initialized" />
       <item value="songdehuai" />
       <item value="已取消" />
@@ -48,14 +51,11 @@
       <item value="consignee Tele" />
       <item value="comm" />
       <item value="预约" />
-      <item value="on Terminate" />
-      <item value="get Aoi Name" />
-      <item value="set Longitude" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
