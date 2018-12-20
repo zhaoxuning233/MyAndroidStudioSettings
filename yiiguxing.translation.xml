@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="longitude" />
+      <item value="order Waybill" />
+      <item value="No route to host" />
       <item value="bound Width" />
       <item value="separator Width" />
       <item value="show Buildings" />
@@ -48,14 +51,11 @@
       <item value="set Outside Touchable" />
       <item value="pay" />
       <item value="play" />
-      <item value="Attempted to finish an input event but the input event receiver has already been disposed" />
-      <item value="ttempted to finish an input event but the input event receiver has already been disposed." />
-      <item value="scheme" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
