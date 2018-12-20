@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Presenter" />
       <item value="longitude" />
       <item value="order Waybill" />
       <item value="No route to host" />
@@ -50,12 +51,11 @@
       <item value="搬运" />
       <item value="set Outside Touchable" />
       <item value="pay" />
-      <item value="play" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
