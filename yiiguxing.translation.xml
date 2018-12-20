@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ChannelID" />
       <item value="Presenter" />
       <item value="longitude" />
       <item value="order Waybill" />
@@ -50,11 +51,10 @@
       <item value="渠道" />
       <item value="搬运" />
       <item value="set Outside Touchable" />
-      <item value="pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
+        <entry key="CHINESE" value="100" />
         <entry key="ENGLISH" value="100" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
