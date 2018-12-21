@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="window Translucent Navigation" />
+      <item value="window Translucent Status" />
       <item value="优惠券" />
       <item value="预约" />
       <item value="发卡行" />
@@ -49,13 +51,11 @@
       <item value="控制器" />
       <item value="set Indoor Enabled" />
       <item value="run Catching" />
-      <item value="提现" />
-      <item value="充值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
