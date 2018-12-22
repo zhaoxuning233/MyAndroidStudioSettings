@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to connect to /192.168.2.159:8081" />
       <item value="tip" />
       <item value="tip tv" />
       <item value="Connection refused" />
@@ -50,12 +51,11 @@
       <item value="未支付" />
       <item value="已完成" />
       <item value="进行中" />
-      <item value="你好世界" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
