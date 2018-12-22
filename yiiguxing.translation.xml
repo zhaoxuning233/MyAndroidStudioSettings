@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="礼物" />
       <item value="Connection refused" />
       <item value="HALF EXPANDED" />
       <item value="HIDDEN" />
@@ -50,7 +51,6 @@
       <item value="你好世界" />
       <item value="Hello Word" />
       <item value="drivingLicencePath" />
-      <item value="waybill cancel" />
     </histories>
     <option name="languageScores">
       <map>
