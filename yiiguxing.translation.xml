@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="余额" />
+      <item value="pay over tv" />
       <item value="Request Entity Too Large" />
       <item value="on Select Listener" />
       <item value="Failed to connect to /192.168.2.159:8081" />
@@ -49,13 +51,11 @@
       <item value="unexpected end of stream on Connection" />
       <item value="lateinit property carInfoData has not been initialized" />
       <item value="songdehuai" />
-      <item value="已取消" />
-      <item value="未支付" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
