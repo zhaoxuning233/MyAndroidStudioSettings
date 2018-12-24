@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Request Entity Too Large" />
       <item value="on Select Listener" />
       <item value="Failed to connect to /192.168.2.159:8081" />
       <item value="tip" />
@@ -50,11 +51,10 @@
       <item value="songdehuai" />
       <item value="已取消" />
       <item value="未支付" />
-      <item value="已完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
+        <entry key="CHINESE" value="119" />
         <entry key="ENGLISH" value="119" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
