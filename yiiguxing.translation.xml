@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The url not be support" />
+      <item value="he url not be support:" />
       <item value="expand" />
       <item value="余额" />
       <item value="pay over tv" />
@@ -49,13 +51,11 @@
       <item value="interval" />
       <item value="预计里程" />
       <item value="预计历程" />
-      <item value="unexpected end of stream on Connection" />
-      <item value="lateinit property carInfoData has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
