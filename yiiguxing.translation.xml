@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绿" />
       <item value="equals Ignore Case" />
       <item value="The url not be support" />
       <item value="he url not be support:" />
@@ -50,7 +51,6 @@
       <item value="remove From Map" />
       <item value="set Node Icon Visibility" />
       <item value="interval" />
-      <item value="预计里程" />
     </histories>
     <option name="languageScores">
       <map>
