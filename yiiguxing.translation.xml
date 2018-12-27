@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Duration" />
       <item value="amount" />
       <item value="lwtter" />
       <item value="letter" />
@@ -50,12 +51,11 @@
       <item value="separator Width" />
       <item value="show Buildings" />
       <item value="is My Location Enabled" />
-      <item value="is My Location Button Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
