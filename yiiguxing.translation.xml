@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$USER_HOME$/Documents/Company/JC_Driver_New_Android/app/src/hdhuhang/res/drawable-xxhdpi/loading.png: Error: In DataSet 'hdhuhang', no data file for changedFile. This is an internal error in the incremental builds code; to work around it, try doing a full clean build." />
+      <item value="5 c 80 d 5 b 2" />
+      <item value="DISTRIBUTOR ID" />
       <item value="ERROR: Unable to resolve dependency for ':app@debug/compileClasspath': Could not resolve project :CommonLib." />
       <item value="ERROR: Unable to resolve dependency for ':app@debug/compileClasspath': Could not resolve project :CommonLib.&#10;Show Details&#10;Affected Modules: app" />
       <item value="set Duration" />
@@ -48,14 +51,11 @@
       <item value="Presenter" />
       <item value="longitude" />
       <item value="order Waybill" />
-      <item value="No route to host" />
-      <item value="bound Width" />
-      <item value="separator Width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
