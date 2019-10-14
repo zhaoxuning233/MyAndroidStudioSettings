@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="New" />
+      <item value="Detail" />
+      <item value="Order Detail Bean" />
+      <item value="grab" />
       <item value="trade" />
       <item value="Bounds" />
       <item value="Lat Lng Bounds" />
@@ -47,15 +51,11 @@
       <item value="window Translucent Status" />
       <item value="预约" />
       <item value="发卡行" />
-      <item value="添加银行卡" />
-      <item value="errorCode: 415, msg: , result:" />
-      <item value="The Request Method can not be retried." />
-      <item value="ChannelID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="ROMANIAN" value="1" />
