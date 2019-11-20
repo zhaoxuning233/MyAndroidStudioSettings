@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth" />
       <item value="Reserve" />
       <item value="MILEAGE" />
       <item value="set Up" />
@@ -50,12 +51,11 @@
       <item value="优惠券" />
       <item value="订单" />
       <item value="司机" />
-      <item value="伺机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="ROMANIAN" value="1" />
